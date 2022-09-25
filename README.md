@@ -1,2 +1,2 @@
 # Trabalhos
- Desenvolvimento de sites das aulas
+ Desenvolvimento de um site utilizando as tags html aprendidas em aula.  
